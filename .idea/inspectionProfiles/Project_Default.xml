@@ -1,0 +1,18 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="cv2.imread" />
+          <option value="cv2.COLOR_BGR2GRAY" />
+          <option value="MyData.Lock" />
+          <option value="tkinter.simpledialog" />
+          <option value="turtle.Screen" />
+          <option value="selenium.webdriver.chrome.webdriver.WebDriver.find_element_by_id" />
+          <option value="selenium.webdriver.support.ui.webDriverWait" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
